@@ -1,0 +1,9 @@
+*.user
+*.psess
+*.vsp
+..svnbridge
+/.vs/
+/packages/
+/bin
+/obj
+*.suo
